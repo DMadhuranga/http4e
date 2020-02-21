@@ -9,7 +9,7 @@
             id="org.roussev.http4e.ui">
       </category>
       <view
-            name="HTTP4e Client"
+            name="HTTP Client"
             icon="icons/logo.png"
             category="org.roussev.http4e.ui"
             class="org.roussev.http4e.httpclient.ui.HdViewPart"

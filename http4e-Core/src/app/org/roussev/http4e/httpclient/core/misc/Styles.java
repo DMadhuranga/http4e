@@ -43,7 +43,7 @@ public class Styles {
    public static final RGB BACKGROUND_DISABLED  = new RGB(253, 253, 240);
    public static final RGB BACKGROUND_FIND      = new RGB(242, 242, 234);
    public static final RGB SSL                  = new RGB(245, 246, 190);
-   public static final RGB PINK_DISABLED        = new RGB(255, 219, 234);
+   public static final RGB PINK_DISABLED        = new RGB(235, 246, 249);
 
    private static Styles   styles = null;
 
