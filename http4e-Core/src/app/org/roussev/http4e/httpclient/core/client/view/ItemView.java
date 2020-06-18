@@ -111,7 +111,7 @@ class ItemView implements ModelListener, Serializable {
       model.addListener(this);
       this.tabItem = tabItem;
       tabItem.setControl(getItemControl(tabItem.getParent()));
-      colorizeIfSSL();
+      // colorizeIfSSL();
    }
 
 

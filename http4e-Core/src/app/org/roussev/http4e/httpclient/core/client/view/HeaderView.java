@@ -87,7 +87,7 @@ class HeaderView {
       Menu popupMenu = new Menu(headersText);
       new ClipboardMenu(headersText, popupMenu);
       headersText.setMenu(popupMenu);
-      setText(CoreConstants.CONTENT_TYPE_X_WWW_FORM);
+      // setText(CoreConstants.CONTENT_TYPE_X_WWW_FORM);
       
       headersText.addKeyListener(new ExecuteKeyListener(new ExecuteCommand() {
          public void execute(){
